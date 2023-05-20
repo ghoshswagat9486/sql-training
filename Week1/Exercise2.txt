@@ -1,0 +1,16 @@
+1 Create a table called “empl” to store the following information
+
+Empl No   Employee Name.   SSN             Start Date.      Email
+1          “ABC”           “345-45-7787”   ”2023-01-01”
+
+2          “DEF”           “124-54-4433”.                   xyz@gmail.com
+
+
+
+
+2 Insert the data shown below into the table “employees” before
+
+  Update the start date for Employee 2 to today’s date
+  Delete the rows from the table where email is not available
+
+
